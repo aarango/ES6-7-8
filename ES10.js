@@ -29,3 +29,6 @@ console.log(Object.fromEntries(entries));
 let mySymbl = ' Esto es sun simbolo';
 let symbol = Symbol(mySymbl);
 console.log(symbol.description);
+
+
+console.log('hola.  Andres')
